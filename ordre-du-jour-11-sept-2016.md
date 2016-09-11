@@ -90,7 +90,7 @@ Mathilde aimerait présenter un projet puisque que son métier plus tard sera pr
 ## Logo:
 
   - Produire un logo pour chaque projet
-![Logos pour to les projets](image/logo-mathilde-11-sept.jpg "par Mathilde, dimanche 11 septembre")
+![Les logos des des projets](image/logo-projets-mathilde-11-sept.jpg "par Mathilde, dimanche 11 septembre")
 
 ## Logistique
 
